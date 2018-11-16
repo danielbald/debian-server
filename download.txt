@@ -1,12 +1,12 @@
 # nginx config files
-curl -O https://github.com/danielbald/debian-server/raw/master/nginx/sites-enabled/example.com.conf
-curl -O https://github.com/danielbald/debian-server/raw/master/nginx/sites-enabled/phpmyadmin.conf
-curl -O https://github.com/danielbald/debian-server/raw/master/nginx/_drupal.conf
-curl -O https://github.com/danielbald/debian-server/raw/master/nginx/_general.conf
-curl -O https://github.com/danielbald/debian-server/raw/master/nginx/_letsencrypt.conf
-curl -O https://github.com/danielbald/debian-server/raw/master/nginx/_php_fastcgi.conf
-curl -O https://github.com/danielbald/debian-server/raw/master/nginx/_resilio.conf
-curl -O https://github.com/danielbald/debian-server/raw/master/nginx/_variables.conf
-curl -O https://github.com/danielbald/debian-server/raw/master/nginx/_wordpress.conf
-curl -O https://github.com/danielbald/debian-server/raw/master/nginx/_wpsupercache.conf
-curl -O https://github.com/danielbald/debian-server/raw/master/nginx/nginx.conf
+curl -O https://raw.githubusercontent.com/danielbald/debian-server/master/nginx/sites-enabled/example.com.conf
+curl -O https://raw.githubusercontent.com/danielbald/debian-server/master/nginx/sites-enabled/phpmyadmin.conf
+curl -O https://raw.githubusercontent.com/danielbald/debian-server/master/nginx/_drupal.conf
+curl -O https://raw.githubusercontent.com/danielbald/debian-server/master/nginx/_general.conf
+curl -O https://raw.githubusercontent.com/danielbald/debian-server/master/nginx/_letsencrypt.conf
+curl -O https://raw.githubusercontent.com/danielbald/debian-server/master/nginx/_php_fastcgi.conf
+curl -O https://raw.githubusercontent.com/danielbald/debian-server/master/nginx/_resilio.conf
+curl -O https://raw.githubusercontent.com/danielbald/debian-server/master/nginx/_variables.conf
+curl -O https://raw.githubusercontent.com/danielbald/debian-server/master/nginx/_wordpress.conf
+curl -O https://raw.githubusercontent.com/danielbald/debian-server/master/nginx/_wpsupercache.conf
+curl -O https://raw.githubusercontent.com/danielbald/debian-server/master/nginx/nginx.conf
